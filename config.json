@@ -1,6 +1,5 @@
 {
     "prefix": "/proxy/",
     "ssl": false,
-    "port": "8080",
-    "cookie_auth": ""
+    "port": "8080"
 }
